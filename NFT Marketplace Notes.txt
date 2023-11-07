@@ -1,0 +1,25 @@
+Nft MarketPlace contract 
+MarketPlace contract does not deplend on nft minting contract 
+So any nft minting contract able to come and used our 
+1. Fixed sale 
+2. Auction sale 
+functionality 
+And more focus on gas consuption so contract took less gas fees for every function and also focus towards security 
+
+In Fixed Sale functionality 
+1.Create sale
+2.Update fixed sale price
+3.Cancel fixed sale 
+4.Buy fixed sale
+
+In Auction sale functionality
+1. Create auction sale 
+2. Make the bidding 
+3. update Bid Price
+4. cancel auction sale (if no bid is there)
+5. buy auction 
+6. withdraw functionality to withdraw there bidding from contract
+
+Current status 
+working on intregation part of contract 
+and using hardhat for deploying the contraxt 
